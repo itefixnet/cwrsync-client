@@ -32,7 +32,7 @@ Downloads are available via [GitHub Releases](https://github.com/itefixnet/cwrsy
 
 - [FAQ](FAQ.md) - Frequently Asked Questions
 - [FAQs at itefix.net](https://itefix.net/cwrsync/client/faqs)
-- [Release portal at itefix.net](https://itefix.net/cwrsync/client/releases)
+- [Release portal at itefix.net](https://itefix.net/releases?field_release_year_value_selective=All&field_release_software_tid_selective=1074&items_per_page=10)
 
 ## Additional Products
 
