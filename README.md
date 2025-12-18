@@ -30,9 +30,9 @@ Downloads are available via [GitHub Releases](https://github.com/itefixnet/cwrsy
 
 ## Resources
 
-- [FAQs](https://itefix.net/cwrsync/client/faqs)
-- [Releases](https://itefix.net/cwrsync/client/releases)
-- [Official Website](https://itefix.net/cwrsync/client)
+- [FAQ](FAQ.md) - Frequently Asked Questions
+- [FAQs at itefix.net](https://itefix.net/cwrsync/client/faqs)
+- [Release portal at itefix.net](https://itefix.net/cwrsync/client/releases)
 
 ## Additional Products
 
