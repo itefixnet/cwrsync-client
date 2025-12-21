@@ -15,7 +15,6 @@ The rsync binary provided has following convenient patches:
 
 # Usage
 
-* Get the latest release
 * Visit the repository’s Releases page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
 * Extract the package
 * Unzip it into a directory of your choosing (e.g., C:\cwrsync).
