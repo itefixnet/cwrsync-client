@@ -13,7 +13,7 @@ The rsync binary provided has following convenient patches:
 - ignore case
 - unofficial patch to avoid permissions error for password file option (see build)
 
-# Download & Installation
+# Usage
 
 * Get the latest release
 * Visit the repository’s Releases page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
