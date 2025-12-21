@@ -11,14 +11,14 @@ The rsync binary provided has following convenient patches:
 - transliterate
 - timelimit
 - ignore case
-- [unofficial patch](blob/main/build/no-password-file-check.diff) to avoid permissions error for password file option
+- [unofficial patch](https://github.com/itefixnet/cwrsync-client/blob/main/build/no-password-file-check.diff) to avoid permissions error for password file option
 
 # Usage
 
 * Visit the repository’s [Releases](https://github.com/itefixnet/cwrsync-client/releases) page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
 * Extract the package
 * Unzip it into a directory of your choosing (e.g., C:\cwrsync).
-* Use the provided **[cwrsync.cmd](blob/main/build/cwrsync.cmd)** for proper use or guidance
+* Use the provided **[cwrsync.cmd](https://github.com/itefixnet/cwrsync-client/blob/main/build/cwrsync.cmd)** for proper use or guidance
 
 The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
 
