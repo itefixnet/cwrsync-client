@@ -1,18 +1,8 @@
-# cwRsync client
-
 ![cwRsync client](https://itefix.net/sites/default/files/cwRsync_client.png)
 
-A barebone distribution of Rsync client for Windows. That's all you need to initiate rsync requests from your computer.
+# What is cwRsync-client?
 
-## About
-
-cwRsync is a packaging of Rsync for Windows. You can use cwRsync for fast remote file backup and synchronization.
-
-Rsync uses the Rsync algorithm which provides a very fast method for bringing remote files into sync. It does this by sending just the differences in the files across the link, without requiring that both sets of files are present at one of the ends of the link beforehand. At first glance this may seem impossible because the calculation of diffs between two files normally requires local access to both files.
-
-Rsync normally uses ssh for communication. It requires no special privileges for installation. You must, however, have a working ssh system. Alternatively, rsync can run in `daemon' mode, listening on a socket. This is generally used for public file distribution, although authentication and access control are available.
-
-Cygwin is a Linux-like environment for Windows. It consists of a DLL (cygwin1.dll), which emulates substantial Linux API functionality, and a collection of tools.
+cwRsync-client is a bare-bones Windows packaging of the rsync command-line tool. It lets you efficiently backup or synchronize files between local and remote systems using the powerful rsync algorithm, transferring only changed data. The package includes the necessary binaries and SSH support for secure transfers.
 
 ## Features
 
@@ -21,12 +11,18 @@ The rsync binary provided has following convenient patches:
 - transliterate
 - timelimit
 - ignore case
+- unofficial patch to avoid permissions error for password file option (see build)
 
-The package contains the required ssh binaries for secure communication.
+# Download & Installation
 
-## Downloads
+* Get the latest release
+* Visit the repository’s Releases page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
+* Extract the package
+* Unzip it into a directory of your choosing (e.g., C:\cwrsync).
+* Use the provided **cwrsync.cmd** for proper use or guidance
 
-Downloads are available via [GitHub Releases](https://github.com/itefixnet/cwrsync-client/releases).
+The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
+
 
 ## Resources
 
