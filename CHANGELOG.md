@@ -11,7 +11,7 @@ Version/license information about components included:
 | OpenSSL          | 3.0.19           | OpenSSL License                                     | https://www.openssl.org/source/ (find 3.0.19 tarball in “Source Archives”) |
 | cwRsync client   | 6.4.7            | Itefix Free Software License (Simplified BSD)       | https://www.itefix.net/cwrsync (product page) |
 
-## [6.4.7] - 2026-04-02
+## [6.4.7] - 2026-02-04
 
 ### Changed
 - cygwin 3.6.6
