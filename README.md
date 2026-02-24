@@ -1,4 +1,4 @@
-![cwRsync client](https://itefix.net/sites/default/files/cwRsync_client.png)
+![cwRsync client](cwrsync.jpg)
 
 # What is cwRsync-client?
 
