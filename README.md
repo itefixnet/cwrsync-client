@@ -4,17 +4,6 @@
 
 cwRsync-client is a bare-bones Windows packaging of the rsync command-line tool. It lets you efficiently backup or synchronize files between local and remote systems using the powerful rsync algorithm, transferring only changed data. The package includes the necessary binaries and SSH support for secure transfers.
 
-## Related Products from Itefix.net
-
-- **Rsync Server (cwRsync Server)** – Paid rsync daemon solution for serving rsync requests from your computer  
-  https://itefix.net/cwrsync/server  
-
-- **Secure Rsync Server (cwRsync + Copssh Server Kit)** – Secure rsync server solution with SSH support  
-  https://itefix.net/cwrsync-copssh-server-kit  
-
-- **Rsync Client Helper GUI** – Graphical helper tool for managing and running rsync client tasks  
-  https://itefix.net/rsync-client-helper-gui  
-
 ## Features
 
 The rsync binary provided has following convenient patches:
@@ -38,6 +27,17 @@ The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
 - [FAQ](FAQ.md) - Frequently Asked Questions
 - [FAQs at itefix.net](https://itefix.net/cwrsync/client/faqs)
 - [Release portal at itefix.net](https://itefix.net/releases?field_release_year_value_selective=All&field_release_software_tid_selective=1074&items_per_page=10)
+
+## Related Products from Itefix.net
+
+- **Rsync Server (cwRsync Server)** – Paid rsync daemon solution for serving rsync requests from your computer  
+  https://itefix.net/cwrsync/server  
+
+- **Secure Rsync Server (cwRsync + Copssh Server Kit)** – Secure rsync server solution with SSH support  
+  https://itefix.net/cwrsync-copssh-server-kit  
+
+- **Rsync Client Helper GUI** – Graphical helper tool for managing and running rsync client tasks  
+  https://itefix.net/rsync-client-helper-gui  
 
 ## Links
 
