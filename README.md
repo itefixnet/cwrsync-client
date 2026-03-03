@@ -13,7 +13,7 @@ The rsync binary provided has following convenient patches:
 - ignore case
 - [unofficial patch](https://github.com/itefixnet/cwrsync-client/blob/main/build/no-password-file-check.diff) to avoid permissions error for password file option
 
-# Usage
+## Usage
 
 * Visit the repository’s [Releases](https://github.com/itefixnet/cwrsync-client/releases) page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
 * Extract the package
