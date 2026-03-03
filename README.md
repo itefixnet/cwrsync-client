@@ -1,6 +1,6 @@
 ![cwRsync client](cwrsync.jpg)
 
-# What is cwRsync-client?
+## What is cwRsync-client?
 
 cwRsync-client is a bare-bones Windows packaging of the rsync command-line tool. It lets you efficiently backup or synchronize files between local and remote systems using the powerful rsync algorithm, transferring only changed data. The package includes the necessary binaries and SSH support for secure transfers.
 
