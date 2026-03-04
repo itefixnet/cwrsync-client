@@ -27,14 +27,9 @@ The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
 
 ## Related Products from Itefix.net
 
-- **Rsync server solution for serving rsync requests from your computer** 
-  https://itefix.net/cwrsync/server  
-
-- **Secure rsync server solution with SSH support** 
-  https://itefix.net/cwrsync-copssh-server-kit  
-
-- **Graphical helper tool for managing and running rsync client tasks**
-  https://itefix.net/rsync-client-helper-gui  
+- [Rsync server solution for serving rsync requests from your computer](https://itefix.net/cwrsync/server)
+- [Secure rsync server solution with SSH support](https://itefix.net/cwrsync-copssh-server-kit)
+- [Graphical helper tool for managing and running rsync client tasks](https://itefix.net/rsync-client-helper-gui) 
 
 ## Links
 
