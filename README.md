@@ -16,7 +16,6 @@ The rsync binary provided has following convenient patches:
 ## Usage
 
 * Visit the repository’s [Releases](https://github.com/itefixnet/cwrsync-client/releases) page on GitHub and download the zip for the current version (e.g., cwrsync_6.4.6_x64_free.zip). 
-* Extract the package
 * Unzip it into a directory of your choosing (e.g., C:\cwrsync).
 * Use the provided **[cwrsync.cmd](https://github.com/itefixnet/cwrsync-client/blob/main/build/cwrsync.cmd)** for proper use or guidance
 
@@ -25,18 +24,16 @@ The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
 ## Resources
 
 - [FAQ](FAQ.md) - Frequently Asked Questions
-- [FAQs at itefix.net](https://itefix.net/cwrsync/client/faqs)
-- [Release portal at itefix.net](https://itefix.net/releases?field_release_year_value_selective=All&field_release_software_tid_selective=1074&items_per_page=10)
 
 ## Related Products from Itefix.net
 
-- **Rsync Server (cwRsync Server)** – Paid rsync daemon solution for serving rsync requests from your computer  
+- **Rsync server solution for serving rsync requests from your computer** 
   https://itefix.net/cwrsync/server  
 
-- **Secure Rsync Server (cwRsync + Copssh Server Kit)** – Secure rsync server solution with SSH support  
+- **Secure rsync server solution with SSH support** 
   https://itefix.net/cwrsync-copssh-server-kit  
 
-- **Rsync Client Helper GUI** – Graphical helper tool for managing and running rsync client tasks  
+- **Graphical helper tool for managing and running rsync client tasks**
   https://itefix.net/rsync-client-helper-gui  
 
 ## Links
