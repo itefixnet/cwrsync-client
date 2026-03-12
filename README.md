@@ -22,7 +22,7 @@ The archive contains rsync.exe, SSH related binaries, and supporting DLLs. The r
 ## Resources
 
 - [FAQ](docs/FAQ.md) - Frequently Asked Questions
-- [Changelog](https://github.com/itefixnet/changelogs/blob/main/changelogs/cwrsync-client.md)
+- Changelog - [Changes since Feb 2020](https://github.com/itefixnet/changelogs/blob/main/changelogs/cwrsync-client.md) [Changes before Feb 2020](https://github.com/itefixnet/changelogs/blob/main/changelogs/cwrsync.md)
 
 ## Related Products from Itefix.net
 
