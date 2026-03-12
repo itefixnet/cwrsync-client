@@ -1,17 +1,10 @@
-![cwRsync client](cwrsync.jpg)
+![cwRsync client](docs/cwrsync.jpg)
 
 ## What is cwRsync-client?
 
 cwRsync-client is a bare-bones Windows packaging of the rsync command-line tool. It lets you efficiently backup or synchronize files between local and remote systems using the powerful rsync algorithm, transferring only changed data. The package includes the necessary binaries and SSH support for secure transfers.
 
-## Features
-
-The rsync binary provided has following convenient patches:
-
-- transliterate
-- timelimit
-- ignore case
-- [unofficial patch](https://github.com/itefixnet/cwrsync-client/blob/main/build/no-password-file-check.diff) to avoid permissions error for password file option
+Looking for a production-ready rsync server for Windows? See [cwRsync Server](: https://www.itefix.net/cwrsync/server) from Itefix
 
 ## Usage
 
@@ -19,11 +12,17 @@ The rsync binary provided has following convenient patches:
 * Unzip it into a directory of your choosing (e.g., C:\cwrsync).
 * Use the provided **[cwrsync.cmd](https://github.com/itefixnet/cwrsync-client/blob/main/build/cwrsync.cmd)** for proper use or guidance
 
-The archive contains rsync.exe, SSH related binaries, and supporting DLLs.
+The archive contains rsync.exe, SSH related binaries, and supporting DLLs. The rsync binary provided has following convenient patches:
+
+- transliterate
+- timelimit
+- ignore case
+- [unofficial patch](https://github.com/itefixnet/cwrsync-client/blob/main/build/no-password-file-check.diff) to avoid permissions error for password file option
 
 ## Resources
 
-- [FAQ](FAQ.md) - Frequently Asked Questions
+- [FAQ](docs/FAQ.md) - Frequently Asked Questions
+- [Changelog](https://github.com/itefixnet/changelogs/blob/main/changelogs/cwrsync-client.md)
 
 ## Related Products from Itefix.net
 
